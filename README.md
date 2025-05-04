@@ -34,20 +34,15 @@ We evaluate various CNNs and Vision Transformers (ViTs) across multiple metrics�
 
 ## 📂 Project Structure
 
+```
 ├── data/ # Datasets (download links or references)
-|
 ├── notebooks/ # Jupyter notebooks for experiments
-|
 ├── src/ # Model training, evaluation, and utils
-|
 ├── results/ # Metrics, plots, visualizations
-|
 ├── presentation/ # Final PPT, images, speaker notes
-|
 ├── reports/ # Analysis summaries, README, final PDF
-|
 └── README.md # You are here!
-
+```
 
 ---
 

@@ -84,4 +84,4 @@ This project is open-source under the Apache 2.0 License. See `LICENSE` file for
 
 **Author**: *Your Name*  
 📫 Email: [shahid9664@gmail.com]  
-🔗 Portfolio: [khanz9664.github.io/portfolio]  
+🔗 Portfolio: [https://khanz9664.github.io/portfolio]  

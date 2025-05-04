@@ -82,6 +82,6 @@ This project is open-source under the Apache 2.0 License. See `LICENSE` file for
 
 ## 🙋‍♂️ Contact
 
-**Author**: *Your Name*  
+**Author**: *Shahid Ul Islam*  
 📫 Email: [shahid9664@gmail.com]  
 🔗 Portfolio: [https://khanz9664.github.io/portfolio]  

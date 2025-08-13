@@ -1,5 +1,5 @@
 # 🧠 Transfer Learning for Medical Imaging: Classification & Segmentation
-![sc](Screenshot.png)
+![sc](src/Screenshot.png)
 
 This repository contains all code, results, visualizations, and documentation related to a project evaluating transfer learning techniques for medical image classification and segmentation tasks.
 

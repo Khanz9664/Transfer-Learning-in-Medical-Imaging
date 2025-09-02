@@ -19,13 +19,19 @@
   8. Comparative Analysis
 
 # RESULTS
-  1. VGG 16
-    ![Vgg](results/__results___21_3.png)
-    ![Vgg](results/__results___21_4.png)
-  2. ViT
-    ![ViT](results/__results___23_5.png)
-    ![ViT](results/__results___23_6.png)
-  3. Custom Model
-    ![CNN](results/__results___44_1.png)
-    ![CNN](results/__results___41_0.png)
+
+VGG 16
+
+![Vgg](results/__results___21_3.png)
+![Vgg](results/__results___21_4.png)
+
+ViT
+
+![ViT](results/__results___23_5.png)
+![ViT](results/__results___23_6.png)
+
+Custom Model
+
+![CNN](results/__results___44_1.png)
+![CNN](results/__results___41_1.png)
 
